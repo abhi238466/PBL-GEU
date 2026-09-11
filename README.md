@@ -777,6 +777,35 @@ PBL-GEU Repository
 
 ---
 
+# 👥 PBL Group Leaders
+
+This section lists the assigned Group Leader for each PBL group.
+
+| 🌎 Country | 👥 GitHub Team | 🌿 Branch | 👤 Group Leader | 🔗 GitHub Profile |
+|---|---|---|---|---|
+| 🇮🇳 India | `India-Team` | `india` | Pending | — |
+| 🇯🇵 Japan | `Japan-Team` | `japan` | Priyanshi Pal | [GitHub](https://github.com/priyanshipal77) |
+| 🇩🇪 Germany | `Germany-Team` | `germany` | Pending | — |
+| 🇫🇷 France | `France-Team` | `france` | Pending | — |
+| 🇺🇸 USA | `USA-Team` | `usa` | Pending | — |
+| 🇬🇧 UK | `UK-Team` | `uk` | Pending | — |
+| 🇨🇦 Canada | `Canada-Team` | `canada` | Pending | — |
+| 🇦🇺 Australia | `Australia-Team` | `australia` | Divisha Saini | [GitHub](https://github.com/divisha-tech) |
+| 🇮🇹 Italy | `Italy-Team` | `italy` | Pending | — |
+| 🇰🇷 South Korea | `South-Korea-Team` | `south-korea` | Pending | — |
+| 🇧🇷 Brazil | `Brazil-Team` | `brazil` | Pending | — |
+| 🇸🇬 Singapore | `Singapore-Team` | `singapore` | Pending | — |
+| 🇦🇪 UAE | `UAE-Team` | `uae` | Pending | — |
+| 🇨🇳 China | `China-Team` | `china` | Pending | — |
+| 🇷🇺 Russia | `Russia-Team` | `russia` | Pending | — |
+
+> 📌 Group Leader details will be updated as group assignments are confirmed.
+
+> 📌 The Group Leader is responsible for maintaining the group's project work in the assigned branch and country folder.
+
+
+---
+
 # 👨‍🏫 Project Monitoring
 
 The repository is maintained as a centralized workspace for:
