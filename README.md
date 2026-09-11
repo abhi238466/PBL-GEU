@@ -790,7 +790,7 @@ This section lists the assigned Group Leader for each PBL group.
 | 🇺🇸 USA | `USA-Team` | `usa` | Pending | — |
 | 🇬🇧 UK | `UK-Team` | `uk` | Pending | — |
 | 🇨🇦 Canada | `Canada-Team` | `canada` | Pending | — |
-| 🇦🇺 Australia | `Australia-Team` | `australia` | Divisha Saini |
+| 🇦🇺 Australia | `Australia-Team` | `australia` |  — |
 | 🇮🇹 Italy | `Italy-Team` | `italy` | Pending | — |
 | 🇰🇷 South Korea | `South-Korea-Team` | `south-korea` | Pending | — |
 | 🇧🇷 Brazil | `Brazil-Team` | `brazil` | Pending | — |
